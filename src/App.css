@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (max-width : 991px) {
+    #header {
+        text-align: center;
+    }
+
+    #header .header-img {
+        text-align: center;
+    }
+
+    #header .header-img img {
+        width: 60%;
+    }
+}
+
+@media (max-width : 768px) {
+    #header {
+        margin-top: 20px;
+    }
+
+    #header h1 {
+        font-size: 28px;
+    }
+
+    #header h2 {
+        font-size: 18px;
+    }
+}

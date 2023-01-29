@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600&display=swap');
+
+
+.move-right {
+    margin-left: auto;
+}
+
+.navbar {
+    font-family: 'Mulish', sans-serif;
+    background-color: white I !important;
+}
+
+.navbar-brand {
+    font-size: 1.8rem !important;
+    color: #595387 !important;
+}
+
+.navbar a:hover {
+    color: #3498db !important;
+}
+
+.active {
+    font-weight: bold;
+    border-bottom: 1px solid #565387;
+}
